@@ -1,0 +1,6 @@
+default:
+    extension: .config
+    output: themes
+colors-only:
+    extension: .config
+    output: colors
