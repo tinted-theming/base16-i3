@@ -38,3 +38,6 @@ $ curl https://raw.githubusercontent.com/khamer/base16-i3/master/colors/base16-d
 ```
 
 And hit **$mod + Shift + c** to load in the new colors.
+
+You can also fetch the separate bar colors and client properties sections of
+the full config from the `bar-colors` and `client-properties` directories.
